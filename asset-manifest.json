@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7BTesla-Clone%7D/static/css/main.993a317c.chunk.css",
+    "main.js": "/%7BTesla-Clone%7D/static/js/main.1d9a614a.chunk.js",
+    "main.js.map": "/%7BTesla-Clone%7D/static/js/main.1d9a614a.chunk.js.map",
+    "runtime-main.js": "/%7BTesla-Clone%7D/static/js/runtime-main.4ac2e22e.js",
+    "runtime-main.js.map": "/%7BTesla-Clone%7D/static/js/runtime-main.4ac2e22e.js.map",
+    "static/js/2.f7d246ec.chunk.js": "/%7BTesla-Clone%7D/static/js/2.f7d246ec.chunk.js",
+    "static/js/2.f7d246ec.chunk.js.map": "/%7BTesla-Clone%7D/static/js/2.f7d246ec.chunk.js.map",
+    "index.html": "/%7BTesla-Clone%7D/index.html",
+    "static/css/main.993a317c.chunk.css.map": "/%7BTesla-Clone%7D/static/css/main.993a317c.chunk.css.map",
+    "static/js/2.f7d246ec.chunk.js.LICENSE.txt": "/%7BTesla-Clone%7D/static/js/2.f7d246ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ac2e22e.js",
+    "static/js/2.f7d246ec.chunk.js",
+    "static/css/main.993a317c.chunk.css",
+    "static/js/main.1d9a614a.chunk.js"
+  ]
+}
